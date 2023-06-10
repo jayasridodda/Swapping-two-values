@@ -30,14 +30,14 @@ y=t
 print('Swapped values are:',x,y)
 
 ```
-
-## RESULT:
-Thus the swapping of two values are successfully executed
-
 ## OUTPUT
 
 ![PYTH SWAP](https://user-images.githubusercontent.com/123259278/224647478-ab5bb1a6-1acf-4dd0-9562-4d03125f5cad.png)
 
+
+
+## RESULT:
+Thus the swapping of two values are successfully executed
 
 
 
